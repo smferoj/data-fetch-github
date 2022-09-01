@@ -1,0 +1,18 @@
+
+.DetailsCardsSection{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    
+}
+.DetailsCards{
+    padding: .5rem;
+    background-color: white;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 20px;
+
+}
+
+.DetailsCards p{
+    font-weight: bold;
+}

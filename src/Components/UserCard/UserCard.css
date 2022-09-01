@@ -1,0 +1,48 @@
+
+
+
+.usercard{
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 1rem;
+    margin-top: 2rem;
+    height: 350px;
+    padding-top: 1rem;
+    border: 1px solid teal;
+    color: white;
+}
+
+.usercard p{
+    padding-top: 1rem;
+}
+.profile_head{
+    display: flex;
+    gap:10%;
+    justify-content: space-around;
+}
+
+
+.usercard img{
+    width: 5rem;
+    border-radius: 50%;
+}
+
+.usercard button{
+    border: none;
+    background-color: teal;
+    padding: 0.5rem;
+    height: 2.5rem;
+    width: 70px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
+.user_icon{
+    color: whtie;
+    font-size: 1.2rem;
+    margin: 0 0.2rem;
+}
+
+.user_icon_container >div{
+    margin-top: 1rem;
+}
